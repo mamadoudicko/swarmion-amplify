@@ -1,3 +1,6 @@
 {
   "extends": "next/core-web-vitals",
+  "parserOptions": {
+      "tsconfigRootDir": "swarmion-amplify/frontend/my-next-app",
+  }
 }
