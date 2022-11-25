@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "backend-core": "backend/core",
+    "my-next-app": "frontend/my-next-app",
     "backend-users": "backend/users",
     "core-contracts": "contracts/core-contracts",
     "frontend-app": "frontend/app",
